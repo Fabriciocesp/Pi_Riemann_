@@ -1,4 +1,4 @@
-# Pi_Riemman_
+# Pi_Riemann_
 Estimación de valor de pi mediante integración aplicando sumas de Riemann
 
 
